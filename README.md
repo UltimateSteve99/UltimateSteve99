@@ -27,3 +27,5 @@
 * * Concert Band Composition
 * * Other Composition
 * Amateur Astronomy
+
+### [Link to lessons learned md file](https://github.com/AerE361/mission-1-UltimateSteve99/blob/devel-sns2/lessons_learned.md)
