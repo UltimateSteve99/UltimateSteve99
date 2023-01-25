@@ -19,5 +19,11 @@
 *  * Direct midi integration using MATLAB and the ComputerCraft mod
 *  * Massive redstone machines utilizing shulker box based files generated from MIDI, MATLAB, and Minecraft Datapacks to emulate a 1900's instrument called the Fotoplayer (a fusion of a pipe organ, drum kit, and a player piano that was used to narrate silent films).
 ### Additional Hobbies:
-* 
- Create your profile README. Add a link to your profile page in the "lesson.md" you created. Let the world know a little bit more about you! What are you interested in learning? What are you working on? What's your favorite hobby? Learn more about creating your profile README in the document, "Managing Your Profile README".
+* Science Fiction Author
+* Musician
+* * Piano
+* * Trombone
+* * Organ
+* * Concert Band Composition
+* * Other Composition
+* Amateur Astronomy
